@@ -9,3 +9,4 @@ Collection of React Hooks
 - [x] useBeforeLeave
 - [x] useFadeIn
 - [x] useNetwork
+- [x] useScroll
