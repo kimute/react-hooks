@@ -6,3 +6,6 @@ Collection of React Hooks
 - [x] useClicks
 - [x] useConfirm
 - [x] usePreventLeave
+- [x] useBeforeLeave
+- [x] useFadeIn
+- [x] useNetwork
