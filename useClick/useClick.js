@@ -2,6 +2,7 @@ export const useClick = (onClick) => {
   if (typeof onClick !== "function") {
     return;
   }
+  //userRef is like document.getElementById
   const element = useRef();
   useEffect(() => {
     if (element.current) {

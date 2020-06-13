@@ -16,3 +16,5 @@ export const useInput = (initialValue, validator) => {
   };
   return { props: { value, onChange }, utils: { setValue } };
 };
+
+// useState return array
