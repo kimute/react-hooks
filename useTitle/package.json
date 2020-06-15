@@ -1,0 +1,28 @@
+{
+  "name": "@hoons/use-title",
+  "version": "1.0.0",
+  "description": "React hook to update your document's title",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimute/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "title"
+  ],
+  "author": "Tae hoon Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimute/react-hooks/issues"
+  },
+  "homepage": "https://github.com/kimute/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
