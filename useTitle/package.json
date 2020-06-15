@@ -1,6 +1,6 @@
 {
   "name": "@hoons/use-title",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "React hook to update your document's title",
   "main": "index.js",
   "scripts": {
@@ -25,9 +25,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "peerDependencies": {
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
-  },
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1"
+  }
 }
