@@ -14,9 +14,7 @@ Collection of React Hooks
 - [x] useNotification
 - [x] useAxios
 
-## collections hooks
-
-### 以下のリンクを参考
+## 以下のリンクを参考
 
 | Hook            | Description                                               | Documentations                                                                     |
 | --------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------- |
